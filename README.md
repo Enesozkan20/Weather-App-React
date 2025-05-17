@@ -36,7 +36,8 @@ REACT_APP_WEATHER_API_KEY=your_key_here
 npm start 
 
 # Preview 
-![Uploading ReactApp-GoogleChrome2025-05-1720-35-05-ezgif.com-video-to-gif-converter.gif…]()
+![ReactApp-GoogleChrome2025-05-1720-35-05-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/038ce29d-7611-4195-850e-3190247c4036)
+
 
 
 # 📜 License
